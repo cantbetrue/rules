@@ -8,8 +8,8 @@
 91.108.56.0/22
 109.239.140.0/24
 149.154.160.0/20
-(^|\.)githubusercontent.com$
-(^|\.)whatsmyip.org$
+(^|\.)githubusercontent\.com$
+(^|\.)whatsmyip\.org$
 (^|\.)4tern\.com$
 (^|\.)adorama\.com$
 (^|\.)akiba-web\.com$
@@ -2526,7 +2526,7 @@
 (^|\.)pornhd\.com$
 (^|\.)pornhost\.com$
 (^|\.)pornhub\.com$
-(^|\.)phncdn.com$
+(^|\.)phncdn\.com$
 (^|\.)pornmm\.net$
 (^|\.)pornoxo\.com$
 (^|\.)pornrapidshare\.com$
