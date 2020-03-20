@@ -8,9 +8,8 @@
 91.108.56.0/22
 109.239.140.0/24
 149.154.160.0/20
-(^|\.)test.com$
 (^|\.)githubusercontent\.com$
-(^|\.)whatsmyip\.org$
+(^|\.)ip138.com\.com$
 (^|\.)4tern\.com$
 (^|\.)adorama\.com$
 (^|\.)akiba-web\.com$
